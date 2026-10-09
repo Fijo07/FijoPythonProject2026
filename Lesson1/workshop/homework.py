@@ -1,4 +1,4 @@
-from Lesson1.firstdaycode import age
+
 
 print("Welcome, lets set a program that lets user to send brithday card")
 print()
