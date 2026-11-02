@@ -19,6 +19,7 @@ Wishing you a day filled with joy and laughter as you turn {age}!
  With love and best wishes,
  {sender_name}
 """
+print()
 print(message)
 
 
